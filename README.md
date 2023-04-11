@@ -7,6 +7,7 @@ Install both the *discord* and *pandas* libraries. You can open your terminal an
 
     pip install discord
     pip install pandas
+    pip install openpyxl
 
 Once we have created the bot with the right permissions and installed the libraries, all there's left is to deploy the bot inside the server and edit the **config.py** file with the right values.
 
