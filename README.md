@@ -3,7 +3,7 @@ The functionality of this Discord Bot script is to offer the ability to assign r
 
 Firstly, you will need to create the bot. Go to the following link for quick steps --> [Configuring and setting up a discord bot](https://discord.com/developers/docs/getting-started#configuring-a-bot).
 
-One we have created the bot with the right permission and it has been deployed inside the server, all there's left is to edit the **config.py** file with the right values.
+Once we have created the bot with the right permission and it has been deployed inside the server, all there's left is to edit the **config.py** file with the right values.
 
 ![enter image description here](https://i.ibb.co/7ykTsQ8/token.png)
 
