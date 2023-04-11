@@ -32,4 +32,4 @@ async def on_ready():
                 await member.add_roles(role)
                 print(f"{member.display_name} has been given the {ROLE_NAME} role.")
 
-client.run(DISCORD_API_TOKEN)
+client.run(DISCORD_BOT_TOKEN)
